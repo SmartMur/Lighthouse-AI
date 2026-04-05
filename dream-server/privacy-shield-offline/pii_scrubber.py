@@ -143,7 +143,7 @@ if __name__ == "__main__":
     # Test input
     test_text = """
     Contact John Doe at john.doe@example.com or call 555-123-4567.
-    API Key: sk-abc123xyz789abcdef
+    API Key: [redacted]
     Server IP: 192.168.1.100
     SSN: 123-45-6789
     """
